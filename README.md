@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm Web Developer
-- I'm interested in PHP, NodeJs, ReactJs, 
+- I'm interested in PHP, NodeJs, ReactJs and Flutter
 
-[My Resume](https://github.com/pasindu-kavinda/pasindu-kavinda/blob/main/pasindu-kavinda.pdf)
+:link: [Linkedin](https://www.linkedin.com/in/pasindu-kavinda-ab506a193/)
+
+:link: [My Resume](https://github.com/pasindu-kavinda/pasindu-kavinda/blob/main/pasindu-kavinda.pdf)
