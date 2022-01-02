@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I'm Web Developer
+- I'm interested in PHP, NodeJs, ReactJs, 
 
-[CV](https://github.com/pasindu-kavinda/pasindu-kavinda/blob/main/pasindu-kavinda.pdf)
+[My Resume](https://github.com/pasindu-kavinda/pasindu-kavinda/blob/main/pasindu-kavinda.pdf)
